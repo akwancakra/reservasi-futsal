@@ -1,4 +1,4 @@
-# Reservasu Lapangan Futsal
+# Reservasi Lapangan Futsal
 This repository is intended for introductory software engineering and basic programming tasks
 
 | No | Nama | NIM |
