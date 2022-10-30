@@ -1,0 +1,16 @@
+================== DETIL TRANSAKSI =================
+Lapangan Rumput
+Rp. 25.000/Jam
+Lapangan dengan rumput, hanya lapangan saja.
+
+INFO :
+Belum termasuk perlengkapan 
+Durasi bermain	: 10 Jam
+Perlengkapan	: 
+1. Rompi - 15.000
+
+========================TOTAL=======================
+Lapangan		: Rp. 25.000 x 10 Jam
+Perlengkapan	: Rp. 15.000
+Total harga		: Rp. 265.000
+====================================================
